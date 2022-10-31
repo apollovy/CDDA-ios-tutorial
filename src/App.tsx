@@ -37,7 +37,7 @@ function App() {
     },
     {
       src: require('./gif/7-Up_Down_Left_Right in the menu.gif'),
-      description: '	Use “up/down” and “left/right” buttons for controls in different menu windows (includes main screen).',
+      description: '	Press the “Tab/BTab” buttons to go the next or previous tab and “Up/Down” and “Left/Right” buttons for controls in different menu windows (includes main screen).',
       alt: 'Up_Down_Left_Right in the menu',
     },
     {
@@ -74,11 +74,6 @@ function App() {
       src: require('./gif/14-Keep the side menu.gif'),
       description: '	Tap and hold at any action in side menu to lock it on the screen.',
       alt: 'Keep the side menu',
-    },
-    {
-      src: require('./gif/15-Load character.gif'),
-      description: '	Press the “Tab/BTab” buttons to go the next or previous tab in the menu.',
-      alt: 'Load character',
     },
     {
       src: require('./gif/16-Hide side menu.gif'),
